@@ -14,11 +14,11 @@ Feziwe M Shongwe
 - You will firstly need to set up your working environment like installing things neccesary to run this 
  1. Download python3 - Download/Install [here](https://www.python.org/downloads/)
  2. Install the libraries required for this project: 
-    openCV - install openCV (https://pypi.org/project/opencv-python/)
+    - openCV - install openCV (https://pypi.org/project/opencv-python/)
         windows and macOS: pip install opencv-python
         
-    skimage - [here] (https://scikit-image.org/docs/dev/install.html) <br>
-    scipy - [here ](https://scipy.org/install/)
+    - skimage - [here] (https://scikit-image.org/docs/dev/install.html)
+    - scipy - [here ](https://scipy.org/install/)
 
 ### Get the App & Run It
 
