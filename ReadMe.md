@@ -2,7 +2,7 @@
 Feziwe M Shongwe
 
 # cartoon-ify Tool
- This project proposes a tool for converting images to cartoons that uses python libraries such as scikit-image, OpenCV, and others to segment the input image using k-means clustering.
+Before using images on various platforms, including social media platforms, different people prefer different image pro- cessing techniques. Some prefer to apply filters to images, change the contrast of an image, introduce shadows in an image, change an image to a cartoon, and so on. This paper focuses primarily on the technique of converting an actual image to a cartoon image. There are several methods for converting various types of images to cartoons, including the use of Photoshop websites and applications. This paper introduces a tool for converting images to cartoons that uses python libraries such as scikit-image, OpenCV, and others to segment the input image using k-means clustering
 
 ## Description of code
 - The code has 2 sections (Implentation and Testing)
